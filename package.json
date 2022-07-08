@@ -1,7 +1,7 @@
 {
   "name": "realtime-editor",
   "version": "0.1.0",
-  "homepage": "https://Aktarul902.github.io/portfolio",
+  "homepage": "https://Aktarul902.github.io/code-editior",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
